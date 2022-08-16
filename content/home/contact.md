@@ -25,8 +25,8 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: dongjialin2019@hotmail.com
+  phone: (412)897-3177
   address:
     street: 450 Serra Mall
     city: Stanford
