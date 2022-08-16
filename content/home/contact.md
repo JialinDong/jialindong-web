@@ -48,9 +48,9 @@ content:
 #      name: DM Me
 #      link: 'https://twitter.com/Twitter'
 #    - icon: video
-#      icon_pack: fas
-#      name: Zoom Me
-#      link: 'https://zoom.com'
+      icon_pack: fas
+      name: Zoom Me
+      link: 'https://zoom.com'
 
 design:
   columns: '2'
