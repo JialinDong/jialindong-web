@@ -24,7 +24,7 @@ main:
     weight: 30
   - name: Accomplishments
     url: '#accomplishments'
-    weight: 50
+    weight: 40
   - name: Contact
     url: '#contact'
     weight: 60
